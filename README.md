@@ -1,8 +1,10 @@
 # pandas-challenge
 
-* HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
-  - Heroes of Pymoli script file
+* Heroes Of Pymoli
+  - HeroesOfPymoli/HeroesOfPymoli_starter.ipynb : Script file
+  - HeroesOfPymoli - Screenshots.pdf : Screenshots
 
-* PyCitySchools/PyCitySchools_starter.ipynb
-  - PyCity Schools script file
+* PyCity Schools
+  - PyCitySchools/PyCitySchools_starter.ipynb : PyCity Schools script file
+  - PyCitySchools - Screenshots.pdf : Screenshots
   
